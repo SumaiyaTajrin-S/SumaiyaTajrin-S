@@ -6,11 +6,11 @@
 
 ### Web Development | Fontend With React | Bakend With NodeJS
 <br/>
-<br/>
-- 🔭 I’m currently working on **MY PROJECT.**
-- 🌱 I’m currently learning **NODE JS.**
-- 💬 Ask me about **Font end with react**
-- 📄 Know about my experiences **[Resume](....)]**
+
+- 🔭 I’m currently working on **MY PROJECT.**<br/>
+- 🌱 I’m currently learning **NODE JS.**<br/>
+- 💬 Ask me about **Font end with react**<br/>
+- 📄 Know about my experiences **[Resume](....)]**<br/>
 - ⚡ Fun fact **👀**
 
 
