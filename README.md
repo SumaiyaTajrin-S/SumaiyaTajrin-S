@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **MY PROJECT.**<br/>
 - 🌱 I’m currently learning **NODE JS.**<br/>
 - 💬 Ask me about **Font end with react**<br/>
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1wxocYIwMmtqeUDPZrZi4xjUHkgl3Lz0G/view" target="_blank">Resume</a>**<br/>
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1wxocYIwMmtqeUDPZrZi4xjUHkgl3Lz0G/view" target="_blank"/>Resume</a>**<br/>
 - ⚡ Fun fact **👀**
 
 
