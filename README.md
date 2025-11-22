@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Sumaiya Tajrin </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyatajrin-s&label=Profile%20views&color=0e75b6&style=flat" alt="sajibkhandev" /> </p>
+
 <h3 align="center"> Web Developer </h3>
 
 <p align="center">
@@ -7,6 +7,7 @@
 </p>
 
 ### Web Development | Fontend With React | Bakend With NodeJS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyatajrin-s&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiyatajrin" /> </p>
 <br/>
 
 - 🔭 I’m currently working on **MY PROJECT.**<br/>
