@@ -1,6 +1,7 @@
 <h1 align="center">Hi,I'm Sumaiya Tajrin </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiyatajrin-s&label=Profile%20views&color=0e75b6&style=flat" alt="sajibkhandev" /> </p>
 <h3 align="center"> Web Developer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhandev&label=Profile%20views&color=0e75b6&style=flat" alt="sajibkhandev" /> </p>
+
 <p align="center">
 <img alt="Coding" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 </p>
